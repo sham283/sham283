@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi 👋, I'm Shambhavi
 
-<!--
-**sham283/sham283** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Software Developer | Full-Stack Development Enthusiast
 
-Here are some ideas to get you started:
+🚀 Passionate about building innovative solutions and solving real-world problems through technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning Data Structures & Algorithms, Web Development, and Software Engineering.
+
+💡 Interested in Software Development, Backend Engineering, Databases, and Open-Source Contributions.
+
+🛠️ Skills:
+Programming • Web Development • Database Management • Git • GitHub • Problem Solving
+
+🎯 Goal:
+To become a skilled Software Engineer and create impactful technology solutions.
+
+📚 Continuously learning, building projects, and expanding my technical expertise.
